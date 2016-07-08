@@ -1,0 +1,2 @@
+# maintenance
+Simple maintenance website
